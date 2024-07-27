@@ -4,6 +4,8 @@ This repository contains code used in [_Temporal connections between long-term L
 
 Tree core measurements have been uploaded to the [ITRDB](https://www.ncei.noaa.gov/access/paleo-search/). Search for "Bonney" under "Investigators" and you will find 20 repositories with ring widths. See also: https://www.ncei.noaa.gov/access/paleo-search/study/search.json?dataPublisher=NOAA&investigators=Bonney%2C%20M.T.&headersOnly=true. 
 - Other data are available upon reasonable request.
+
+If you have any questions about the paper, code, or data: mitchellthurston.bonney@nrcan-rncan.gc.ca
 __________________________________________
 If you use this code or these data, please reference: 
 
